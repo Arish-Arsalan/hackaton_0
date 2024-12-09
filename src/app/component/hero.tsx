@@ -21,7 +21,7 @@ function Hero() {
                 {/* Image Section */}
                 <div className="mt-6 md:mt-0">
                     <Image
-                        src="/rocket single seater 1.png"
+                        src="/Rocket single seater 1.png"
                         height={600}
                         width={600}
                         alt="A stylish rocket single seater"
